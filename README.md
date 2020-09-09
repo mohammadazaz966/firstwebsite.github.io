@@ -22,13 +22,13 @@
 
 <h3>Preview Images</h3>
 
-![Image of Websites](1599623094709.png)
-![Image of Websites](1599623867283.png)
-![Image of Websites](Untitled-1.png)
-![Image of Websites](Untitled-2.png)
-![Image of Websites](Untitled-3.png)
-![Image of Websites](Untitled-4.png)
-![Image of Websites](Untitled-5.png)
-![Image of Websites](Untitled-6.png)
-![Image of Websites](Untitled-7.png)
-![Image of Websites](Untitled-8.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/1599623094709.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/1599623867283.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/Untitled-1.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/Untitled-2.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/Untitled-3.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/Untitled-4.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/Untitled-5.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/Untitled-6.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/Untitled-7.png)
+![Image of Websites](https://github.com/mohammadazaz966/firstwebsite.github.io/blob/master/Preview-Images/Untitled-8.png)
